@@ -1,9 +1,7 @@
 # -*- coding: utf-8
 """Lookup tables for geographic name variations."""
 
-
 from __future__ import unicode_literals
-
 
 ALTERNATIVE_COUNTRY_NAMES = {
     "alankomaat": "the netherlands",
@@ -95,6 +93,7 @@ ALTERNATIVE_COUNTRY_NAMES = {
     "irlanda": "ireland",
     "irlande": "ireland",
     "irland": "ireland",
+    "islamic republic of iran": "iran",
     "italia": "italy",
     "itália": "italy",
     "italie": "italy",
